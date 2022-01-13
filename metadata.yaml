@@ -1,0 +1,38 @@
+_repo: Contes-Chretiens_67120
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wyzewa, Teodor de
+    aliases:
+    - De Wyzewa, Teodor
+    - Wyzewa, Theodore de
+    - Wyzewa, Théodore de
+    - Wyzewa, T. de (Teodor)
+    - Wyzewski, Teodor
+    - Wyzewa, Téodor de
+    birthdate: 1862
+    deathdate: 1917
+    gutenberg_agent_id: '42402'
+    url: http://www.gutenberg.org/2009/agents/42402
+    wikipedia:
+    - https://en.wikipedia.org/wiki/T%C3%A9odor_de_Wyzewa
+    - https://fr.wikipedia.org/wiki/Th%C3%A9odore_de_Wyzewa
+description: ''
+gutenberg_issued: '2022-01-07'
+identifiers:
+  gutenberg: '67120'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k628702
+pgterms:marc905: 20211223190632wyzewa
+pgterms:marc906: '1902'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Perrin et Cie,1902.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Contes Chrétiens
+url: http://www.gutenberg.org/ebooks/67120
